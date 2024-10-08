@@ -1,5 +1,5 @@
 # Fruit-ANN-CNN
-![Fruit-ANN-CNN Deep Learning Project](https://github.com/Ali-jalil88/COVID-19-Xray-Dataset--CNN-ResNet50-MobileNetV2/blob/main/DALL%C2%B7E%202024-10-07%2014.26.36%20-%20An%20illustration%20comparing%20three%20deep%20learning%20models_%20CNN%2C%20ResNet50%2C%20and%20MobileNetV2.%20Each%20model%20should%20be%20represented%20by%20a%20simplified%20diagram%2C%20showin.webp)
+![Fruit-ANN-CNN Deep Learning Project](https://github.com/Ali-jalil88/Fruit-ANN-CNN/blob/main/DALL%C2%B7E%202024-10-08%2014.00.27%20-%20A%20vibrant%20and%20detailed%20image%20of%20a%20fruit%20classification%20system%2C%20showing%20various%20fruits%20like%20apples%2C%20bananas%2C%20oranges%2C%20and%20strawberries%20in%20clear%20section.webp)
 ### For a fruit classification task using Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) in Keras with TensorFlow, the workflow involves several key components such as data loading, preprocessing (using ImageDataGenerator), model building (ANN and CNN), choosing optimizers (Adam), setting loss functions, and evaluating the model using classification metrics.
 #### 1. Dataset Preparation
 You can use a publicly available Fruit Classification dataset, such as the Fruit 360 dataset from Kaggle. This dataset includes images of various fruits, which are typically split into training and test sets.
